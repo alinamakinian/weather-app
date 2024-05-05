@@ -76,6 +76,21 @@ main {
   display: flex;
   justify-content: space-between;
 }
+.weather-forecast {
+  margin-top: 20px;
+  text-align: left;
+  color: #000000;
+}
+.weather-forecast-date {
+  font-size: 16px;
+  opacity: 0.5;
+}
+.weather-forecast-temperatures {
+  font-size: 13px;
+}
+.weather-forecast-temperature-min {
+  opacity: 0.5;
+}
 
 footer {
   border-top: 1px solid #f9f7fe;
